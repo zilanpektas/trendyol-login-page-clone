@@ -1,0 +1,179 @@
+/*************ZİLAN PEKTAS*****************/
+
+.container .logo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 300px;
+}
+
+.container .logo2 img {
+  display: block;
+  margin-top: -100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  height: 350px;
+  box-shadow: 0px 4px 4px 2px rgb(193, 193, 193);
+  border: none;
+  border-radius: 8px;
+}
+
+/****************************************input1***********/
+
+.container .input1 {
+  margin-top: -310px;
+  text-align: center;
+}
+
+.container .input1 input {
+  width: 300px;
+  height: 50px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: rgb(209, 209, 209);
+}
+
+.container .input2 {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.container .input2 input {
+  width: 300px;
+  height: 50px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: rgb(209, 209, 209);
+}
+
+/******************************************link1***********/
+
+.container .link1 {
+  text-align: center;
+  margin-left: 195px;
+  margin-top: 5px;
+}
+
+.container .link1 a {
+  color: orange;
+  text-decoration: none;
+}
+.container .button1 {
+  margin-top: 20px;
+  text-align: center;
+}
+.container .button1 button {
+  margin-top: -10px;
+  text-align: center;
+  width: 300px;
+  height: 50px;
+  background-color: rgb(255, 119, 0);
+  border: none;
+  border-radius: 8px;
+  color: white;
+}
+
+/****************************button2******************/
+
+.container .button2 button {
+  width: 140px;
+  border-radius: 5px;
+  border-color: azure;
+  background-color: rgb(249, 249, 249);
+}
+
+.container .button2 button img {
+  display: flex;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.container .button2 {
+  text-align: center;
+  margin-left: -160px;
+  margin-top: 15px;
+}
+
+.container .button2 button span {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-top: -40px;
+  margin-left: 50px;
+  color: rgb(119, 119, 119);
+}
+
+.container .button2 button p {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-bottom: auto;
+  margin-top: -10px;
+  margin-left: 50px;
+  color: rgb(119, 119, 119);
+}
+
+/******************************************button3************/
+
+.container .button3 button {
+  width: 140px;
+  border-radius: 5px;
+  border-color: azure;
+  background-color: rgb(249, 249, 249);
+}
+.container .button3 button img {
+  display: flex;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  border-radius: 5px;
+}
+.container .button3 {
+  text-align: center;
+  margin-left: 160px;
+  margin-top: -53px;
+}
+
+.container .button3 button span {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-top: -40px;
+  margin-left: 50px;
+  color: rgb(119, 119, 119);
+}
+
+.container .button3 button p {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-bottom: auto;
+  margin-top: -10px;
+  margin-left: 50px;
+  color: rgb(119, 119, 119);
+}
+
+/******************************************link2************/
+
+.container .link2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.container .link2 span {
+  color: rgb(165, 165, 165);
+}
+
+.container .link2 a {
+  text-decoration: none;
+  color: rgb(255, 119, 0);
+}
